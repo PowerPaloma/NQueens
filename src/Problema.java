@@ -47,7 +47,6 @@ public class Problema {
 				break;
 			}
 		}
-
 	}
 
 	public Estado getEstado() {
